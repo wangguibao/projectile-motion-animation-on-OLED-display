@@ -4,7 +4,7 @@
 
 [Projectile Motion](https://openstax.org/books/physics/pages/5-3-projectile-motion)
 
-A full demo can be found here [Demo](https://www.bilibili.com/video/BV1wx4y197zZ/)
+A full demo can be found [here](https://www.bilibili.com/video/BV1wx4y197zZ/)
 
 This toy project is developed during learning STM32 programming which turns out to be funny. I am not contributing further efforts to it so just put it here as a zip archive.
 
