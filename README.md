@@ -1,4 +1,4 @@
-# Projectile Motion Animation On a OLED Display
+# Projectile Motion Animation On OLED Display
 
 ![Projectile Motion](demo.jpg)
 
