@@ -21,11 +21,13 @@ A minimal STM32F103C8T6 development board with all GPIO pins. I bought it from T
 ![STM32F103C8T6最小系统板向下焊接](https://gw.alicdn.com/bao/uploaded/i3/738263294/O1CN01BfOP8l1aChUAzDSZe_!!738263294.jpg_Q75.jpg_.webp)
 
 [STM32F103C8T6最小系统板向下焊接](https://detail.tmall.com/item.htm?abbucket=12&id=535614102774&ns=1&spm=a230r.1.14.11.7df01e9dXupn4X&skuId=5194626899076)
+
 If you plan to buy one online, ask the dealer if they can provide you the board schematics before ordering.
 
 ## The OLED Display
 
 ![.96寸OLED显示屏12864液晶屏模块IIC口ssd1306单片机oled12864](https://gd4.alicdn.com/imgextra/i4/3823701960/O1CN01OrPMC51QLj9c4ZWD4_!!3823701960.png_400x400.jpg)
+
 [0.96寸OLED显示屏12864液晶屏模块IIC口ssd1306单片机oled12864](https://item.taobao.com/item.htm?spm=a1z10.5-c-s.w4002-23991449502.13.1add2b188hlbJk&id=565003400812)
 
 - A 0.96 inch 128 x 64 OLED display driven by a SSD1306 chip
